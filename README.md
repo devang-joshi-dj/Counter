@@ -1,4 +1,4 @@
-# **Counter
+# **Counter**
 
 ### **Description**
 Its a Web Application which is an Interactive Counter made with vanilla JavaScript
