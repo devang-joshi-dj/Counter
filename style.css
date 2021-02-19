@@ -13,6 +13,8 @@ html, body {
     align-items: center;
 }
 
+/* Main Container Start */
+
 .container {
     display: flex;
     text-align: center;
@@ -31,6 +33,8 @@ h1 {
     margin: 0;
     padding: 0;
 }
+
+/* Buttons Start */
 
 .buttonGrp {
     display: flex;
@@ -60,3 +64,7 @@ h1 {
 #down, #up, #reset {
     flex: 33.33%;
 }
+
+/* Buttons End */
+
+/* Main Container End */
